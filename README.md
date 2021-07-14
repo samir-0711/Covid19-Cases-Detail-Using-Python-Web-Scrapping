@@ -1,6 +1,6 @@
-# Covid19 Cases Detail Using Python Web Scrapping
-
-This is a GUI based project which give covid19 cases details of selected country.
+# Covid-19 Cases Detail Using Python Web Scrapping
+![Covid19-Cases-Detail-Using-Python-Web-Scrapping](https://socialify.git.ci/samir-0711/Covid19-Cases-Detail-Using-Python-Web-Scrapping/image?description=1&descriptionEditable=GUI%20Based%20Software%20and%20Database%20using%20NetBeans%2C%20Java%20Swing%20and%0AMySQL&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark)
+This is a GUI based project which give Covid-19 cases details of selected country.
 
 ## How to run this project
 
