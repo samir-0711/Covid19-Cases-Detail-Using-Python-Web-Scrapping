@@ -15,3 +15,7 @@ For Windows user
 8. Change drive in cmd if project is install in other drive then C. (use command 'D:' for D drive. Same for other drive change alphabet only)
 9. Go to project directory using command 'cd <path_to_your_directory>'.
 10. To run the project, use command 'python Covid19_Cases_Detail.py'.
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/68433936/125665628-18395a27-da96-4b7b-99b5-9c6e24158d22.png)
+![image](https://user-images.githubusercontent.com/68433936/125665656-70cfa9f0-efab-4282-92cd-43a5f3d825d2.png)
